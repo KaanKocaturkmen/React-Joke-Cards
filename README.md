@@ -14,6 +14,8 @@ Each card displays:
 
 The joke data is stored separately in a JavaScript file and passed down to individual card components.
 
+<img width="355" height="600" alt="000944" src="https://github.com/user-attachments/assets/f7bd6293-b3dc-4ada-8014-626cf8638612" />
+
 ## 🧠 Purpose
 
 This project was created to practice:
