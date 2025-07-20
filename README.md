@@ -48,7 +48,7 @@ _(No live demo available currently)_
 To clone and run this project locally:
 
 ```bash
-git clone https://github.com/yourusername/React-Joke-Cards.git
+git clone https://github.com/KaanKocaturkmen/React-Joke-Cards.git
 cd React-Joke-Cards
 npm install
 npm run dev # or npm start
